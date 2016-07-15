@@ -23,7 +23,7 @@ You have two choices:
 ## Acknowledgments
 
 Thanks to Nelson Liu for reading drafts of these chapters. Thanks to Colin
-Lockard, Elizabeth Clark, John Theickstun, and Lucy Lin for their feedback on
+Lockard, Elizabeth Clark, John Thickstun, and Lucy Lin for their feedback on
 preliminary versions of this material.
 
 ### TODOs
