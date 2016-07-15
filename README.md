@@ -34,3 +34,5 @@ preliminary versions of this material.
 - [x] wrap plain text at smaller width
 - [x] investigate script (w/ `jupyter`?) to generate HTML
 - [ ] debug Jupyter `nbconvert` PDF generation
+- [ ] check if `mybinder.org` auto-builds new versions. If not, see if there's
+  some hook (e.g. github) to do this.
