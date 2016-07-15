@@ -1,9 +1,11 @@
 # vml
 
-A Visual Introduction to Machine Learning.
+_A Visual Introduction to Machine Learning_
 
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mbforbes/vml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](blob/master/LICENSE.txt)
+
+This is a work in progress.
 
 ## Chapters
 
@@ -17,3 +19,15 @@ You have two choices:
   Jupyter notebooks. The raw source is available in `notebooks/`.
 
 - Download static `HTML` files in  `static/` and open with a web browser.
+
+## Acknowledgments
+
+Thanks to Nelson Liu for reading drafts of these chapters. Thanks to Colin
+Lockard, Elizabeth Clark, John Theickstun, and Lucy Lin for their feedback on
+preliminary versions of this material.
+
+### TODOs
+
+- [ ] make list vs ndarray distinction more clear in notebook
+- [ ] pull array helpers into some kinda `util.py`
+- [ ] investigate script (w/ `jupyter`?) to generate HTML and PDF
