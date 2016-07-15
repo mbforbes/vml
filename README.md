@@ -28,6 +28,7 @@ preliminary versions of this material.
 
 ### TODOs
 
-- [ ] make list vs ndarray distinction more clear in notebook
-- [ ] pull array helpers into some kinda `util.py`
+- [x] make `list` vs `ndarray` distinction more clear in notebook
+- [x] pull visualization helpers into some kinda `util.py`
+- [x] wrap plain text at smaller width
 - [ ] investigate script (w/ `jupyter`?) to generate HTML and PDF
