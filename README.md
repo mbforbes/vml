@@ -18,7 +18,8 @@ You have two choices:
 - Click the `launch binder` button above to view the chapters as interactive
   Jupyter notebooks. The raw source is available in `notebooks/`.
 
-- Download static `HTML` files in  `static/` and open with a web browser.
+- Download a static rendering of the notebooks in some format. Formats are
+  available in `static/` (e.g. `HTML`).
 
 ## Acknowledgments
 
@@ -31,4 +32,5 @@ preliminary versions of this material.
 - [x] make `list` vs `ndarray` distinction more clear in notebook
 - [x] pull visualization helpers into some kinda `util.py`
 - [x] wrap plain text at smaller width
-- [ ] investigate script (w/ `jupyter`?) to generate HTML and PDF
+- [x] investigate script (w/ `jupyter`?) to generate HTML
+- [ ] debug Jupyter `nbconvert` PDF generation
