@@ -33,6 +33,7 @@ preliminary versions of this material.
 - [x] pull visualization helpers into some kinda `util.py`
 - [x] wrap plain text at smaller width
 - [x] investigate script (w/ `jupyter`?) to generate HTML
-- [ ] debug Jupyter `nbconvert` PDF generation
+- [x] debug Jupyter `nbconvert` PDF generation---not feasible to do
+  programmatically; javascript plots don't play well.
 - [ ] check if `mybinder.org` auto-builds new versions. If not, see if there's
   some hook (e.g. github) to do this.
