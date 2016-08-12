@@ -35,5 +35,14 @@ preliminary versions of this material.
 - [x] investigate script (w/ `jupyter`?) to generate HTML
 - [x] debug Jupyter `nbconvert` PDF generation---not feasible to do
   programmatically; javascript plots don't play well.
+- [ ] Remove `numpy` intro crap from `1_matrices` into some kinda snippets
+  folder; this isn't "a numpy intro to ML"
+- [ ] Revise `1_matrices` to have text output, focus on visuals, more side-by-
+  side plots, and possibly add more matrix operations (can always add more later
+  too).
+- [ ] make conversion target `hide_code_html`
+- [ ] Remove chapter number markings. Change grouping to 'basic', etc.
+- [ ] Make generic header for each notebook (could be some kinda header()
+  function which outputs HTML?)---include title, name, github, website probably.
 - [ ] check if `mybinder.org` auto-builds new versions. If not, see if there's
   some hook (e.g. github) to do this.
