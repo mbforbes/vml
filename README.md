@@ -8,7 +8,9 @@ _A Visual Introduction to Machine Learning_
 
 ![Matrix rendered as heatmap](matrix2.png) ![Pseudo inverse of matrix rendered as heatmap](pseudo-inverse2.png)
 
-This is an incomplete work! A good idea thought :-)
+_Left: a matrix. Right: its pseudo-inverse._
+
+This is an incomplete project! Was a good idea, though :-)
 
 ## Chapters
 
