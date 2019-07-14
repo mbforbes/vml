@@ -6,7 +6,7 @@ _A Visual Introduction to Machine Learning_
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](blob/master/LICENSE.txt)
 
 
-![Matrix rendered as heatmap](matrix.png) ![Pseudo inverse of matrix rendered as heatmap](pseudo-inverse.png)
+![Matrix rendered as heatmap](matrix2.png) ![Pseudo inverse of matrix rendered as heatmap](pseudo-inverse2.png)
 
 This is an incomplete work! A good idea thought :-)
 
