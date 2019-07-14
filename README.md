@@ -5,7 +5,10 @@ _A Visual Introduction to Machine Learning_
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/mbforbes/vml)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](blob/master/LICENSE.txt)
 
-This is a work in progress.
+
+![Matrix rendered as heatmap](matrix.png) ![Pseudo inverse of matrix rendered as heatmap](pseudo-inverse.png)
+
+This is an incomplete work! A good idea thought :-)
 
 ## Chapters
 
